@@ -85,7 +85,7 @@ python test.py
 
 ### Citation
 
-Min Zeng, Xinyu Zhang, Yiming Li, Chengqian Lu, Rui Yin, Fei Guo, Min Li*, “RNALoc-LM: a pre-trained RNA language model powered for RNA subcellular localization prediction”.
+Min Zeng, Xinyu Zhang, Yiming Li, Chengqian Lu, Rui Yin, Fei Guo, Min Li*, “RNALoc-LM: RNA subcellular localization prediction using pre-trained RNA language model”.
 
 
 
